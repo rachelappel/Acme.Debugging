@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.Debugging.App", "Acme.Debugging.App\Acme.Debugging.App.csproj", "{10D5972D-D6ED-4CA3-AA8C-7C0D0403300D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.Debugging.Api", "Acme.Debugging.Api\Acme.Debugging.Api.csproj", "{B46BC779-BA97-40E2-9377-4C5FBC43CA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D5972D-D6ED-4CA3-AA8C-7C0D0403300D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D5972D-D6ED-4CA3-AA8C-7C0D0403300D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D5972D-D6ED-4CA3-AA8C-7C0D0403300D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D5972D-D6ED-4CA3-AA8C-7C0D0403300D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46BC779-BA97-40E2-9377-4C5FBC43CA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46BC779-BA97-40E2-9377-4C5FBC43CA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46BC779-BA97-40E2-9377-4C5FBC43CA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46BC779-BA97-40E2-9377-4C5FBC43CA54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
